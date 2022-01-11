@@ -1,13 +1,3 @@
-# tugas Ihsan Nurul Alam
-
-## flowchart
-![gambar1](ss/fc.jpeg)
-
-
-program:
-
-
-
 from os import system
 class mahasiswa:
     nim=""
